@@ -31,12 +31,6 @@
                 </div>
             </div>
         </header>
-        <main>
-            <div class="texto-zoera">
-                <button>
-                    #Você é gay hehehe!
-                </button>
-            </div>
-        </main>
+        
     </body>
 </html>
